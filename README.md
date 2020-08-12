@@ -1,6 +1,3 @@
-# mail-casting
-
-
 # Mail Casting
 
 ## Prerequisits and their uses
